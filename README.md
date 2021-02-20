@@ -1,2 +1,1 @@
-# alura_angular_rxjs_1
-Curso
+# ByteBankBroker - Curso da Alura de Angular e RxJS: Programação reativa, utilizando PO-UI no Front-end
